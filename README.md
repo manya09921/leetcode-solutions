@@ -18,4 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manya09921/leetcode-solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/manya09921/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Array
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/manya09921/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/manya09921/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/manya09921/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
