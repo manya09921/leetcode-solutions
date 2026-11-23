@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manya09921/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0496-next-greater-element-i](https://github.com/manya09921/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/manya09921/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Linked List
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manya09921/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/manya09921/leetcode-solutions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/manya09921/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
